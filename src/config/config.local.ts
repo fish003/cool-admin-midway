@@ -9,7 +9,7 @@ export default {
     dataSource: {
       default: {
         type: 'mysql',
-        host: '127.0.0.1',
+        host: 'rm-cn-5yd3k6tmi00026.rwlb.rds.aliyuncs.com',
         port: 3306,
         username: 'usersql',
         password: 'EtxPhGrFZJPdMKtK1',
